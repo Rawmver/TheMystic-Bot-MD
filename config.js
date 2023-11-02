@@ -8,39 +8,39 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['593968585283'],
-  ['5219993404349'],
-  ['584125778026'],
-  ['5219991402134'],
-  ['5492266466080'],
-  ['5219996125657'],
-  ['5492266613038'],
-  ['5218442114446'],
-  ['59894808483'],
-  ['595975740803'], 
-  ['595992611272'],
-  ['393755775755','💫 Mystic - Tester Fabri115💫', true]
+  ['994405421041', '👑 Mystic - Creador 👑', true],
+  ['994405421041', '💫 Mystic - Collaborator 1 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 2 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 3 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 4 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 5 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 6 💫', true],
+  ['994405421041', '💫 Mystic - Collaborator 7 💫', false],
+  ['994405421041', '💫 Mystic - Collaborator 8 💫', true],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'],
+  ['994405421041'], 
+  ['994405421041'],
+  ['994405421041','💫 Mystic - Tester Fabri115💫', true]
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['994405421041'];
+global.prems = ['994405421041'];
 
-global.packname = '(☞ﾟ∀ﾟ)☞';
+global.packname = '(☞ﾟLucifer")☞';
 global.author = '★𝚃𝚑𝚎 Devil - king★';
 global.wm = '★𝚃𝚑𝚎 Devil - King★';
 global.titulowm = '🤖 ＴＨＥ Devil. － ＢＯＴ 🤖';
-global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 𝚈 𝚂 𝚃 𝙸 𝙲  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
+global.titulowm2 = `乂  𝚃 𝙷 𝙴  Lucifer  -  𝙱 𝙾 𝚃  乂`
+global.igfg = '★𝚃𝚑𝚎 Lucifer - 𝙱𝚘𝚝★';
+global.wait = '*[❗] Wait, a minute...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -60,15 +60,13 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '5219993404349';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 Lucifer - 𝙱𝚘𝚝`;
+global.gt = '★𝚃𝚑𝚎 Devil - 𝙱𝚘𝚝★';
+global.mysticbot = '★Lucifer - 𝙱𝚘𝚝★'
+global.waitt = '*[❗] Wait, a minute...*';
+global.waittt = '*[❗] Wait, a minute...*';
+global.waitttt = '*[❗] Wait, a minute...*';
+global.nomorown = '994405421041';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
